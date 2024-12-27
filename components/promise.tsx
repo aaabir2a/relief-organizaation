@@ -8,7 +8,7 @@ export function Promise() {
         {/* Image Section */}
         <div className="relative h-[50vh] lg:col-span-3 lg:h-screen">
           <Image
-            src="/placeholder.svg?height=1080&width=1920"
+            src="/food.svg?height=1080&width=1920"
             alt="Child in an urban setting"
             fill
             className="object-cover"

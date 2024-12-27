@@ -63,7 +63,7 @@ export function Navbar() {
             <NavigationMenuItem>
               <NavigationMenuTrigger className={`${
                 isScrolled ? 'text-black' : 'text-black'
-              } hover:bg-transparent hover:bg-black hover:text-white data-[state=open]:bg-black`}>
+              } hover:bg-transparent hover:bg-black hover:text-white data-[state=open]:bg-black data-[state=open]:text-white`}>
                 What we do
               </NavigationMenuTrigger>
               <NavigationMenuContent>
